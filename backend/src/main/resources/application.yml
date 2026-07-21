@@ -47,7 +47,3 @@ springdoc:
     path: /swagger-ui.html
     operations-sorter: alpha
     tags-sorter: alpha
-
-spring:
-  profiles:
-    active: local
