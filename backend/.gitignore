@@ -21,3 +21,4 @@ medicare_db.*
 
 # Environment
 .env
+src/main/resources/application-local.yml
