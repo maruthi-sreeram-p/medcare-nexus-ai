@@ -1,0 +1,23 @@
+# Maven & Java Build Output
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.rar
+
+# IDE Settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs & Database
+*.log
+*.db
+medicare_db.*
+
+# Environment
+.env
